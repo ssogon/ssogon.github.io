@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[6204],{96002:function(a){a.exports=JSON.parse('{"permalink":"/blog/tags/java-fx","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

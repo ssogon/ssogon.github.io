@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[5774],{5224:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/design-pattern","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[2880],{7739:function(a){a.exports=JSON.parse('{"label":"sql","permalink":"/blog/tags/sql","allTagsPath":"/blog/tags","count":3}')}}]);

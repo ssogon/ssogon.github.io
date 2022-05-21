@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[5528],{77713:function(a){a.exports=JSON.parse('{"label":"postgre-sql","permalink":"/blog/tags/postgre-sql","allTagsPath":"/blog/tags","count":2}')}}]);

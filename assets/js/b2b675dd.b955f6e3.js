@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[9110],{28017:function(e){e.exports=JSON.parse('{"permalink":"/blog","page":1,"postsPerPage":10,"totalPages":4,"totalCount":35,"nextPage":"/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

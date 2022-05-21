@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[4590],{74738:function(a){a.exports=JSON.parse('{"label":"lombok","permalink":"/blog/tags/lombok","allTagsPath":"/blog/tags","count":1}')}}]);

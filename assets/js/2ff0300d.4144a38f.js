@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[7107],{61579:function(a){a.exports=JSON.parse('{"permalink":"/blog/tags/java/page/3","page":3,"postsPerPage":10,"totalPages":3,"totalCount":22,"previousPage":"/blog/tags/java/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

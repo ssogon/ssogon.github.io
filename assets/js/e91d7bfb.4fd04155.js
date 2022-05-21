@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[1331],{55881:function(a){a.exports=JSON.parse('{"label":"svelte-kit","permalink":"/blog/tags/svelte-kit","allTagsPath":"/blog/tags","count":1}')}}]);

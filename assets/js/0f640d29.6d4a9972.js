@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[3845],{24723:function(a){a.exports=JSON.parse('{"label":"hikari-cp","permalink":"/blog/tags/hikari-cp","allTagsPath":"/blog/tags","count":1}')}}]);

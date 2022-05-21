@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[3959],{98505:function(a){a.exports=JSON.parse('{"label":"design-pattern","permalink":"/blog/tags/design-pattern","allTagsPath":"/blog/tags","count":1}')}}]);

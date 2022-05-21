@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[2003],{34415:function(a){a.exports=JSON.parse('{"label":"open-api-specification","permalink":"/blog/tags/open-api-specification","allTagsPath":"/blog/tags","count":1}')}}]);

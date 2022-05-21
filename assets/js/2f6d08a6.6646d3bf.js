@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[4979],{48402:function(a){a.exports=JSON.parse('{"label":"rest-api","permalink":"/blog/tags/rest-api","allTagsPath":"/blog/tags","count":3}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[7510],{29484:function(a){a.exports=JSON.parse('{"label":"maven","permalink":"/blog/tags/maven","allTagsPath":"/blog/tags","count":1}')}}]);

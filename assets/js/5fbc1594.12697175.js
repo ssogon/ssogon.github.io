@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatdomabaem_blog=self.webpackChunkmatdomabaem_blog||[]).push([[392],{78100:function(a){a.exports=JSON.parse('{"label":"swagger-ui","permalink":"/blog/tags/swagger-ui","allTagsPath":"/blog/tags","count":1}')}}]);
